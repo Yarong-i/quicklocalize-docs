@@ -10,6 +10,11 @@
 
 유니티에서 CSV를 한 번 클릭으로 ScriptableObject DB로 변환하고 저장/갱신까지 자동화하는 툴 **QuickLocalize**의 문서 저장소입니다.
 
+> 🔼 **QuickLocalize Pro 출시!** 더 빠른 워크플로, 샘플/툴 강화, 우선 지원 제공  
+> 👉 **Pro (Asset Store)**: _(승인 후 링크)_ · **문서**: https://yarong-i.github.io/quicklocalize-pro 
+> **Lite(무료)**는 핵심 기능과 버그픽스 중심으로 유지됩니다.
+
+
 ## 빠른 링크
 
 * 📦 Asset Store: (출시 후 링크 추가)
