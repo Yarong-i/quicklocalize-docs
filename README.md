@@ -19,12 +19,12 @@
 * KR
 
 🔼 QuickLocalize Pro 출시! 더 빠른 워크플로, 샘플/툴 강화, 우선 지원 제공.
-👉 Pro: (승인 후 스토어 링크) · 문서: https://yarong-i.github.io/quicklocalize-docs
+👉 Pro: (승인 후 스토어 링크) · 문서: https://github.com/Yarong-i/quicklocalize-pro
 
 EN
 
 🔼 QuickLocalize Pro is available. Faster workflow, more tools/samples, priority support.
-👉 Pro: (store link after approval) · Docs: https://yarong-i.github.io/quicklocalize-docs
+👉 Pro: (store link after approval) · Docs: https://github.com/Yarong-i/quicklocalize-pro
 
 ## 섹션
 
@@ -34,3 +34,20 @@ EN
 * 예제 프로젝트
 * 자주 묻는 질문(FAQ)
 * 변경 로그(Changelog)
+
+| Feature                     | Lite | Pro |
+|----------------------------|:----:|:---:|
+| CSV → LocalizationDB       |  ✅  | ✅  |
+| TMP text binding           |  ✅  | ✅  |
+| Quick Start sample         |  ✅  | ✅  |
+| One-click bootstrap        |  ➖  | ✅  |
+| Editor tooling/validators  |  ➖  | ✅  |
+| Priority support           |  ➖  | ✅  |
+
+
+### Upgrade to Pro
+1. Package Manager에서 **QuickLocalize(Lite)** 제거(`com.yarong.quicklocalize`)
+2. **QuickLocalize Pro** 설치(`com.yarong.quicklocalize.pro`)
+3. 재생성/마이그레이션 불필요 — CSV/키/LocalizationDB 형식 동일
+4. 에러 시: 콘솔 빨간 오류 0개 확인 → Reimport All → Library 삭제 후 재오픈
+
