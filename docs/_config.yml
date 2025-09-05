@@ -1,2 +1,12 @@
 title: QuickLocalize Docs
+description: CSV → ScriptableObject, Unity Editor Tool
 theme: minima
+
+header_pages:
+  - install.md
+  - csv-format.md
+  - usage.md
+  - faq.md
+  - changelog.md
+
+lang: ko
