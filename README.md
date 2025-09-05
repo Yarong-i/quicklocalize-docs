@@ -16,6 +16,16 @@
 * 🌐 문서 사이트: https://yarong-i.github.io/quicklocalize-docs
 * 💬 이슈/건의: https://github.com/yarong-i/quicklocalize-docs/issues
 
+* KR
+
+🔼 QuickLocalize Pro 출시! 더 빠른 워크플로, 샘플/툴 강화, 우선 지원 제공.
+👉 Pro: (승인 후 스토어 링크) · 문서: https://yarong-i.github.io/quicklocalize-docs
+
+EN
+
+🔼 QuickLocalize Pro is available. Faster workflow, more tools/samples, priority support.
+👉 Pro: (store link after approval) · Docs: https://yarong-i.github.io/quicklocalize-docs
+
 ## 섹션
 
 * 설치 / Import
