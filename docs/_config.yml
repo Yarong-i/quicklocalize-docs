@@ -9,4 +9,8 @@ header_pages:
   - faq.md
   - changelog.md
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 lang: ko
