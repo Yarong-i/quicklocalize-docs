@@ -3,5 +3,8 @@ layout: default
 title: FAQ
 ---
 # FAQ
-**한글 깨짐?** → TMP SDF 폰트 생성 후 교체
-**CSV 인코딩?** → UTF-8 권장
+**Q. 한글이 깨져요**  
+A. TMP 폰트 **SDF**를 생성하고 TextMeshPro 폰트를 교체하세요.
+
+**Q. URP/HDRP 지원하나요?**  
+A. UI(TextMeshPro) 기반이라 렌더 파이프라인 무관하게 동작합니다.
